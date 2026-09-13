@@ -1,6 +1,6 @@
 # Executive Sales & Margin Analysis Dashboard (Power BI)
 
-<img width="1318" height="744" alt="dashboard_preview" src="https://github.com/user-attachments/assets/9a4bd2c1-09e4-4278-8897-89bd36e75772" />
+<img width="426" height="240" alt="dashboard dislplay 1" src="https://github.com/user-attachments/assets/0748e1ee-be1f-4408-aadf-b0a6908b1a0a" />
 
 ## 1. Contexto del Negocio y Problema
 Una compañía minorista internacional con operaciones en Norteamérica experimentó un aumento continuo en su volumen de facturación bruta; no obstante, el comité ejecutivo detectó un estancamiento severo en el margen neto consolidado. 
